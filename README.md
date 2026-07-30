@@ -14,9 +14,9 @@
 
 </td><td valign="top">
 
-I'm a **Mechatronics Engineer** from UFSC (Universidade Federal de Santa Catarina) passionate about the intersection of **Artificial Intelligence**, **Robotics**, and **Industrial IoT**. I build systems that bridge software and hardware — from PLC-driven industrial controllers to AI agents and full-stack web applications.
+I'm a **Mechatronics Engineer** from UFSC (Federal University of Santa Catarina) passionate about the intersection of **Artificial Intelligence**, **Robotics**, and **Industrial IoT**. I build systems that bridge software and hardware — from PLC-driven industrial controllers to AI agents and full-stack web applications.
 
-- 🎓 Mechatronics Engineering — UFSC
+- 🎓 Mechatronics Engineering — UFSC, 2026
 - 🤖 Robotics & AI: neural networks, intelligent agents, multi-agent systems
 - ⚙️ Embedded Systems: Arduino, TIVA C, VHDL/PLDs
 - 🏭 IIoT: Modbus TCP, PLC integration, real-time systems
@@ -30,7 +30,7 @@ I'm a **Mechatronics Engineer** from UFSC (Universidade Federal de Santa Catarin
 
 <div align="center">
 
-![Languages](https://img.shields.io/badge/──────────%20Languages%20──────────-1a1a1a?style=flat-square&labelColor=1a1a1a&color=39D353)
+![Languages](https://img.shields.io/badge/──────────%20Languages%20──────────-1a1a1a?style=flat-square&labelColor=39D353&color=1a1a1a)
 
 ![Python](https://img.shields.io/badge/Python-39D353?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2ECC40?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,7 +40,7 @@ I'm a **Mechatronics Engineer** from UFSC (Universidade Federal de Santa Catarin
 
 <br/>
 
-![Web](https://img.shields.io/badge/──────%20Web%20%26%20Frameworks%20──────-1a1a1a?style=flat-square&labelColor=1a1a1a&color=39D353)
+![Web](https://img.shields.io/badge/──────%20Web%20%26%20Frameworks%20──────-1a1a1a?style=flat-square&labelColor=39D353&color=1a1a1a)
 
 ![Next.js](https://img.shields.io/badge/Next.js-00AA00?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-39D353?style=for-the-badge&logo=react&logoColor=white)
@@ -48,7 +48,7 @@ I'm a **Mechatronics Engineer** from UFSC (Universidade Federal de Santa Catarin
 
 <br/>
 
-![Embedded](https://img.shields.io/badge/────%20Embedded%20%26%20Industrial%20────-1a1a1a?style=flat-square&labelColor=1a1a1a&color=39D353)
+![Embedded](https://img.shields.io/badge/────%20Embedded%20%26%20Industrial%20────-1a1a1a?style=flat-square&labelColor=39D353&color=1a1a1a)
 
 ![Arduino](https://img.shields.io/badge/Arduino-00AA00?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-39D353?style=for-the-badge&logo=raspberrypi&logoColor=white)
