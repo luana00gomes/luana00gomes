@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/luana00gomes/luana00gomes/main/profile.jpeg" width="180" style="border-radius: 50%;" />
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Luana+%F0%9F%91%8B;Mechatronics+Engineer;Robotics+%26+AI+Enthusiast;IIoT+%26+Embedded+Systems)](https://git.io/typing-svg)
 
 </div>
 
 ## About Me
+
+<table><tr><td valign="top" width="200">
+
+<img src="https://raw.githubusercontent.com/luana00gomes/luana00gomes/main/profile.jpeg" width="180" />
+
+</td><td valign="top">
 
 I'm a **Mechatronics Engineer** from UFSC (Universidade Federal de Santa Catarina) passionate about the intersection of **Artificial Intelligence**, **Robotics**, and **Industrial IoT**. I build systems that bridge software and hardware — from PLC-driven industrial controllers to AI agents and full-stack web applications.
 
@@ -15,6 +19,8 @@ I'm a **Mechatronics Engineer** from UFSC (Universidade Federal de Santa Catarin
 - ⚙️ Embedded Systems: Arduino, TIVA C, VHDL/PLDs
 - 🏭 IIoT: Modbus TCP, PLC integration, real-time systems
 - 🌐 Web: Next.js, TypeScript, TailwindCSS
+
+</td></tr></table>
 
 ---
 
