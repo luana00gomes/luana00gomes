@@ -61,12 +61,12 @@ I'm a **Mechatronics Engineer** from UFSC (Federal University of Santa Catarina)
 <h2 align="center" style="color:#39D353">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luana00gomes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=39D353&title_color=39D353" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luana00gomes&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=39D353" height="170" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=luana00gomes&show_icons=true&theme=github_dark&hide_border=true&icon_color=39D353&title_color=39D353" height="170" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=luana00gomes&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=39D353" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=luana00gomes&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=39D353&fire=2ECC40&currStreakLabel=39D353" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luana00gomes&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=39D353&fire=2ECC40&currStreakLabel=39D353" />
 </div>
 
 ---
