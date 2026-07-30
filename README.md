@@ -8,7 +8,7 @@
 
 I'm a **Mechatronics Engineer** from UFSC (Federal University of Santa Catarina) passionate about the intersection of **Artificial Intelligence**, **Robotics**, and **Industrial IoT**. I build systems that bridge software and hardware — from PLC-driven industrial controllers to AI agents and full-stack web applications.
 
-- 🎓 Mechatronics Engineering — UFSC, 2026
+- 🎓 Mechatronics Engineering — UFSC, july of 2026
 - 🤖 Robotics & AI: neural networks, intelligent agents, multi-agent systems
 - ⚙️ Embedded Systems: Arduino, TIVA C, VHDL/PLDs
 - 🏭 IIoT: Modbus TCP, PLC integration, real-time systems
