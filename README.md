@@ -8,7 +8,7 @@
 
 I'm a **Mechatronics Engineer** from UFSC (Federal University of Santa Catarina) passionate about the intersection of **Artificial Intelligence**, **Robotics**, and **Industrial IoT**. I build systems that bridge software and hardware — from PLC-driven industrial controllers to AI agents and full-stack web applications.
 
-- 🎓 Mechatronics Engineering — UFSC
+- 🎓 Mechatronics Engineering — UFSC, 2026
 - 🤖 Robotics & AI: neural networks, intelligent agents, multi-agent systems
 - ⚙️ Embedded Systems: Arduino, TIVA C, VHDL/PLDs
 - 🏭 IIoT: Modbus TCP, PLC integration, real-time systems
@@ -37,19 +37,6 @@ I'm a **Mechatronics Engineer** from UFSC (Federal University of Santa Catarina)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Modbus TCP](https://img.shields.io/badge/Modbus%20TCP-FF6B35?style=flat&logoColor=white)
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Showcase](https://github.com/luana00gomes/Showcase) | Portfolio highlighting recent skills and projects | Next.js · TypeScript · TailwindCSS |
-| [mission-abort-controller](https://github.com/luana00gomes/mission-abort-controller) | Industrial equipment safety controller via Modbus TCP/PLC | Python · Modbus · IIoT |
-| [Neural-Network](https://github.com/luana00gomes/Neural-Network) | Neural network implementation from scratch | Python · ML |
-| [Agent-Communication](https://github.com/luana00gomes/Agent-Communication) | Intelligent multi-agent communication algorithms | Python · AI |
-| [Motor-a-combustao-interna-de-dois-tempos](https://github.com/luana00gomes/Motor-a-combustao-interna-de-dois-tempos) | Two-stroke engine ODE simulation (Euler, RK4, RKF) | Python · Numerical Methods |
-| [Herbalia](https://github.com/luana00gomes/Herbalia) | Smart garden IoT + web application (UFSC academic project) | Python · IoT |
 
 ---
 
