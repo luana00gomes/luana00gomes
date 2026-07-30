@@ -6,11 +6,8 @@
 
 ## About Me
 
-<table><tr><td valign="top" width="200">
-
-<img src="https://raw.githubusercontent.com/luana00gomes/luana00gomes/main/profile.jpeg" width="180" />
-
-</td><td valign="top">
+<table><tr>
+<td valign="top">
 
 I'm a **Mechatronics Engineer** from UFSC (Universidade Federal de Santa Catarina) passionate about the intersection of **Artificial Intelligence**, **Robotics**, and **Industrial IoT**. I build systems that bridge software and hardware — from PLC-driven industrial controllers to AI agents and full-stack web applications.
 
@@ -20,7 +17,11 @@ I'm a **Mechatronics Engineer** from UFSC (Universidade Federal de Santa Catarin
 - 🏭 IIoT: Modbus TCP, PLC integration, real-time systems
 - 🌐 Web: Next.js, TypeScript, TailwindCSS
 
-</td></tr></table>
+</td>
+<td valign="top" width="200">
+<img src="https://raw.githubusercontent.com/luana00gomes/luana00gomes/main/profile.jpeg" width="180" />
+</td>
+</tr></table>
 
 ---
 
