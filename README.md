@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a **Mechatronics Engineer** from UFSC (Universidade Federal de Santa Catarina) passionate about the intersection of **Artificial Intelligence**, **Robotics**, and **Industrial IoT**. I build systems that bridge software and hardware — from PLC-driven industrial controllers to AI agents and full-stack web applications.
+I'm a **Mechatronics Engineer** from UFSC (Federal University of Santa Catarina) passionate about the intersection of **Artificial Intelligence**, **Robotics**, and **Industrial IoT**. I build systems that bridge software and hardware — from PLC-driven industrial controllers to AI agents and full-stack web applications.
 
 - 🎓 Mechatronics Engineering — UFSC
 - 🤖 Robotics & AI: neural networks, intelligent agents, multi-agent systems
@@ -37,15 +37,6 @@ I'm a **Mechatronics Engineer** from UFSC (Universidade Federal de Santa Catarin
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Modbus TCP](https://img.shields.io/badge/Modbus%20TCP-FF6B35?style=flat&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luana00gomes&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luana00gomes&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</div>
 
 ---
 
