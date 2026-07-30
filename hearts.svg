@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110" width="900" height="110">
+
+  <!-- Heart 1: normal, #39D353, x≈55 -->
+  <path d="M0,-4 C0,-4 -0.5,-9 -6,-9 C-11,-9 -11,-2 -11,-2 C-11,4 0,10 0,10 C0,10 11,4 11,-2 C11,-2 11,-9 6,-9 C0.5,-9 0,-4 0,-4Z" fill="#39D353">
+    <animateTransform attributeName="transform" type="translate" values="55,105;50,-5" dur="3.5s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.85;0" dur="3.5s" begin="0s" keyTimes="0;0.1;0.8;1" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Heart 2: small, #2ECC40, x≈130 -->
+  <path d="M0,-2.8 C0,-2.8 -0.35,-6.3 -4.2,-6.3 C-7.7,-6.3 -7.7,-1.4 -7.7,-1.4 C-7.7,2.8 0,7 0,7 C0,7 7.7,2.8 7.7,-1.4 C7.7,-1.4 7.7,-6.3 4.2,-6.3 C0.35,-6.3 0,-2.8 0,-2.8Z" fill="#2ECC40">
+    <animateTransform attributeName="transform" type="translate" values="130,108;126,5" dur="3.2s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.85;0" dur="3.2s" begin="0.4s" keyTimes="0;0.1;0.8;1" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Heart 3: large, #00AA00, x≈215 -->
+  <path d="M0,-5.6 C0,-5.6 -0.7,-12.6 -8.4,-12.6 C-15.4,-12.6 -15.4,-2.8 -15.4,-2.8 C-15.4,5.6 0,14 0,14 C0,14 15.4,5.6 15.4,-2.8 C15.4,-2.8 15.4,-12.6 8.4,-12.6 C0.7,-12.6 0,-5.6 0,-5.6Z" fill="#00AA00">
+    <animateTransform attributeName="transform" type="translate" values="218,105;223,-2" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.85;0" dur="4s" begin="0.8s" keyTimes="0;0.1;0.8;1" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Heart 4: small, #39D353, x≈295 -->
+  <path d="M0,-2.8 C0,-2.8 -0.35,-6.3 -4.2,-6.3 C-7.7,-6.3 -7.7,-1.4 -7.7,-1.4 C-7.7,2.8 0,7 0,7 C0,7 7.7,2.8 7.7,-1.4 C7.7,-1.4 7.7,-6.3 4.2,-6.3 C0.35,-6.3 0,-2.8 0,-2.8Z" fill="#39D353">
+    <animateTransform attributeName="transform" type="translate" values="295,106;291,4" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.85;0" dur="3s" begin="1.2s" keyTimes="0;0.1;0.8;1" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Heart 5: normal, #2ECC40, x≈385 -->
+  <path d="M0,-4 C0,-4 -0.5,-9 -6,-9 C-11,-9 -11,-2 -11,-2 C-11,4 0,10 0,10 C0,10 11,4 11,-2 C11,-2 11,-9 6,-9 C0.5,-9 0,-4 0,-4Z" fill="#2ECC40">
+    <animateTransform attributeName="transform" type="translate" values="388,105;393,-2" dur="3.8s" begin="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.85;0" dur="3.8s" begin="1.6s" keyTimes="0;0.1;0.8;1" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Heart 6: large, #00AA00, x≈462 -->
+  <path d="M0,-5.6 C0,-5.6 -0.7,-12.6 -8.4,-12.6 C-15.4,-12.6 -15.4,-2.8 -15.4,-2.8 C-15.4,5.6 0,14 0,14 C0,14 15.4,5.6 15.4,-2.8 C15.4,-2.8 15.4,-12.6 8.4,-12.6 C0.7,-12.6 0,-5.6 0,-5.6Z" fill="#00AA00">
+    <animateTransform attributeName="transform" type="translate" values="460,105;456,0" dur="3.3s" begin="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.85;0" dur="3.3s" begin="2s" keyTimes="0;0.1;0.8;1" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Heart 7: normal, #39D353, x≈558 -->
+  <path d="M0,-4 C0,-4 -0.5,-9 -6,-9 C-11,-9 -11,-2 -11,-2 C-11,4 0,10 0,10 C0,10 11,4 11,-2 C11,-2 11,-9 6,-9 C0.5,-9 0,-4 0,-4Z" fill="#39D353">
+    <animateTransform attributeName="transform" type="translate" values="560,107;564,2" dur="3.7s" begin="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.85;0" dur="3.7s" begin="2.4s" keyTimes="0;0.1;0.8;1" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Heart 8: small, #2ECC40, x≈643 -->
+  <path d="M0,-2.8 C0,-2.8 -0.35,-6.3 -4.2,-6.3 C-7.7,-6.3 -7.7,-1.4 -7.7,-1.4 C-7.7,2.8 0,7 0,7 C0,7 7.7,2.8 7.7,-1.4 C7.7,-1.4 7.7,-6.3 4.2,-6.3 C0.35,-6.3 0,-2.8 0,-2.8Z" fill="#2ECC40">
+    <animateTransform attributeName="transform" type="translate" values="643,106;639,6" dur="3.1s" begin="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.85;0" dur="3.1s" begin="2.8s" keyTimes="0;0.1;0.8;1" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Heart 9: large, #39D353, x≈728 -->
+  <path d="M0,-5.6 C0,-5.6 -0.7,-12.6 -8.4,-12.6 C-15.4,-12.6 -15.4,-2.8 -15.4,-2.8 C-15.4,5.6 0,14 0,14 C0,14 15.4,5.6 15.4,-2.8 C15.4,-2.8 15.4,-12.6 8.4,-12.6 C0.7,-12.6 0,-5.6 0,-5.6Z" fill="#39D353">
+    <animateTransform attributeName="transform" type="translate" values="730,105;735,-2" dur="4.2s" begin="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.85;0" dur="4.2s" begin="3.2s" keyTimes="0;0.1;0.8;1" repeatCount="indefinite"/>
+  </path>
+
+  <!-- Heart 10: normal, #00AA00, x≈823 -->
+  <path d="M0,-4 C0,-4 -0.5,-9 -6,-9 C-11,-9 -11,-2 -11,-2 C-11,4 0,10 0,10 C0,10 11,4 11,-2 C11,-2 11,-9 6,-9 C0.5,-9 0,-4 0,-4Z" fill="#00AA00">
+    <animateTransform attributeName="transform" type="translate" values="823,105;819,0" dur="3.5s" begin="3.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.85;0" dur="3.5s" begin="3.6s" keyTimes="0;0.1;0.8;1" repeatCount="indefinite"/>
+  </path>
+
+</svg>
