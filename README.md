@@ -6,7 +6,7 @@
 
 </div>
 
-<h2 align="center" style="color:#39D353">About Me</h2>
+<h2 align="center">About Me</h2>
 
 <table><tr><td valign="top" width="200">
 
@@ -24,9 +24,18 @@ I'm a **Mechatronics Engineer** from UFSC (Federal University of Santa Catarina)
 
 </td></tr></table>
 
+<h2 align="center">Connect</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-39D353?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-g/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2ECC40?style=for-the-badge&logo=vercel&logoColor=white)](https://luana00gomes.github.io/Showcase)
+
+</div>
+
 ---
 
-<h2 align="center" style="color:#39D353">Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
 
@@ -58,7 +67,7 @@ I'm a **Mechatronics Engineer** from UFSC (Federal University of Santa Catarina)
 
 ---
 
-<h2 align="center" style="color:#39D353">GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-salesp07.vercel.app/api?username=luana00gomes&show_icons=true&theme=github_dark&hide_border=true&icon_color=39D353&title_color=39D353" height="170" />
@@ -71,7 +80,7 @@ I'm a **Mechatronics Engineer** from UFSC (Federal University of Santa Catarina)
 
 ---
 
-<h2 align="center" style="color:#39D353">Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -84,11 +93,4 @@ I'm a **Mechatronics Engineer** from UFSC (Federal University of Santa Catarina)
 
 ---
 
-<h2 align="center" style="color:#39D353">Connect</h2>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-39D353?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-g/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2ECC40?style=for-the-badge&logo=vercel&logoColor=white)](https://luana00gomes.github.io/Showcase)
-
-</div>
