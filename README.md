@@ -49,15 +49,6 @@ I'm a **Mechatronics Engineer** from UFSC (Universidade Federal de Santa Catarin
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luana00gomes&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luana00gomes&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</div>
-
----
-
 ## Featured Projects
 
 | Project | Description | Stack |
